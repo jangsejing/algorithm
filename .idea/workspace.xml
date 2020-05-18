@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d071c94-4deb-4735-a714-ad35ba8dcd56" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c1h4ncBrCGc9TjyI8adeTb5oVS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hackerrank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Forming_a_Magic_SquareKt">
+    <configuration name="Cats_and_a_MouseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Cats_and_a_MouseKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counting_ValleysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Counting_ValleysKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Electronics_ShopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Electronics_ShopKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forming_a_Magic_SquareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.Forming_a_Magic_SquareKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Forming_a_Magic_SquareKt" />
+        <item itemvalue="Kotlin.Cats_and_a_MouseKt" />
+        <item itemvalue="Kotlin.Electronics_ShopKt" />
+        <item itemvalue="Kotlin.Counting_ValleysKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d071c94-4deb-4735-a714-ad35ba8dcd56" name="Default Changelist" comment="" />
+      <created>1589701817378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589701817378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="153" key="#Project_Structure" timestamp="1589701841172">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="384" y="153" key="#Project_Structure/0.23.1792.1097@0.23.1792.1097" timestamp="1589701841172" />
+    <state width="1750" height="374" key="GridCell.Tab.0.bottom" timestamp="1589765076227">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076227" />
+    <state width="1750" height="374" key="GridCell.Tab.0.center" timestamp="1589765076227">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076227" />
+    <state width="1750" height="374" key="GridCell.Tab.0.left" timestamp="1589765076227">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076227" />
+    <state width="1750" height="374" key="GridCell.Tab.0.right" timestamp="1589765076227">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076227" />
+    <state width="1750" height="374" key="GridCell.Tab.1.bottom" timestamp="1589765076228">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076228" />
+    <state width="1750" height="374" key="GridCell.Tab.1.center" timestamp="1589765076228">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076228" />
+    <state width="1750" height="374" key="GridCell.Tab.1.left" timestamp="1589765076228">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076228" />
+    <state width="1750" height="374" key="GridCell.Tab.1.right" timestamp="1589765076228">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="374" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1589765076228" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1589762282227">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1792.1097@0.23.1792.1097" timestamp="1589762282227" />
+    <state x="457" y="307" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589702574694">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="457" y="307" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1792.1097@0.23.1792.1097" timestamp="1589702574694" />
+    <state x="264" y="257" key="new project wizard" timestamp="1589765073668">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="264" y="257" key="new project wizard/0.23.1792.1097@0.23.1792.1097" timestamp="1589765073668" />
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1589764444603">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1589764444603" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/hackerrank/Counting Valleys.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/hackerrank/Electronics Shop.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/hackerrank/Electronics Shop.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/hackerrank/Electronics Shop.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
