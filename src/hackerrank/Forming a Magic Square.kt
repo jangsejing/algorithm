@@ -19,7 +19,7 @@ fun formingMagicSquare(s: Array<Array<Int>>): Int {
         arrayOf(arrayOf(2, 7, 6), arrayOf(9, 5, 1), arrayOf(4, 3, 8))
     )
 
-    var sum = 0
+    var sum = -1
     square.forEach {
         var check = 0
         it.forEachIndexed { i, d2 ->
@@ -27,7 +27,7 @@ fun formingMagicSquare(s: Array<Array<Int>>): Int {
                 check += abs(valJ - s[i][j])
             }
         }
-        sum = if (sum == 0) check else min(check, sum)
+        sum = if (sum == -1) check else min(check, sum)
     }
     return sum
 }
